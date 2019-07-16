@@ -75,7 +75,7 @@ const styles = {
     justifyContent: 'center',
     tintColor: 'black',
     display: 'flex',
-    height: '90%',
+    height: '95%',
     width: '100%',
     backgroundColor: 'black',
     opacity: 0.4,
