@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		m5UJ23nm/g6zlZ+iIGg60oRNc5A=
+		Vr0CEdgODshvtpEXx+zrF2hMu7Y=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest.dSYM/Contents/Resources/DWARF/phoenixhacksTests</key>
 		<data>
-		yNmkn6nKq6D6aYoWPKZNVGp89Ow=
+		BmRnVWtKp1Agcrg2qeitK2OY9Fw=
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest/Info.plist</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest/phoenixhacksTests</key>
 		<data>
-		4mE1LuPykBCH7lI9f1aeutKJpY4=
+		j3Yz6s4M/bw+myk65f2jZY5B4Mc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -104,11 +104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m5UJ23nm/g6zlZ+iIGg60oRNc5A=
+			Vr0CEdgODshvtpEXx+zrF2hMu7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			20aE0NPcAJAJeKI67bR3b4/4/AmyTLTr2P7K/UYplX8=
+			WtCIm7//khOa3oP681SCYBDybQd2Z3XuLAOC98YJVEU=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -282,11 +282,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yNmkn6nKq6D6aYoWPKZNVGp89Ow=
+			BmRnVWtKp1Agcrg2qeitK2OY9Fw=
 			</data>
 			<key>hash2</key>
 			<data>
-			XBGVNZHGZdyVZcIT9wQwvYxelJ3mFBYDx2HaS0klaIU=
+			9hSKOWEgO/I3Gn8p8MsaWwjhf5nOE2ReIUeFV+uClu8=
 			</data>
 		</dict>
 		<key>PlugIns/phoenixhacksTests.xctest/Info.plist</key>
@@ -315,11 +315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4mE1LuPykBCH7lI9f1aeutKJpY4=
+			j3Yz6s4M/bw+myk65f2jZY5B4Mc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JHLpVUg7OD5XdDrOJT2xvhNIjHYJdQNi9szr83920ZE=
+			qBEMNlw46lt7JCVM6dgWprXWpWZt36tkzIBZa1hJOLg=
 			</data>
 		</dict>
 	</dict>
