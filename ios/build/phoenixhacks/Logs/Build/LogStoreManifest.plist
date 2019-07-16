@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>7E3BD20C-092E-4315-BF1D-D857D3AB750F</key>
+		<key>79B1D24D-959C-4D70-98FE-92A6B7ABEB53</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7E3BD20C-092E-4315-BF1D-D857D3AB750F.xcactivitylog</string>
+			<string>79B1D24D-959C-4D70-98FE-92A6B7ABEB53.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>phoenixhacks project</string>
@@ -30,13 +30,13 @@
 			<key>signature</key>
 			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>584942463.27991199</real>
+			<real>584944310.29454994</real>
 			<key>timeStoppedRecording</key>
-			<real>584942464.21104896</real>
+			<real>584944320.35990298</real>
 			<key>title</key>
 			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>7E3BD20C-092E-4315-BF1D-D857D3AB750F</string>
+			<string>79B1D24D-959C-4D70-98FE-92A6B7ABEB53</string>
 		</dict>
 	</dict>
 </dict>
