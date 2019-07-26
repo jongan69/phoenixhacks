@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Pods-phoenixhacksTests/Pods-phoenixhacksTests-dummy.m
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Pods-phoenixhacksTests/Pods-phoenixhacksTests-dummy.m

@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTVersion.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTVersion.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTVersion.h

@@ -1,36 +1,36 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/Yoga.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGValue.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTScrollView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAutoInsetsProtocol.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTScrollableProtocol.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/UIView+React.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTScrollView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTAutoInsetsProtocol.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTScrollableProtocol.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/RCTView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Public/React-Core/React/UIView+React.h

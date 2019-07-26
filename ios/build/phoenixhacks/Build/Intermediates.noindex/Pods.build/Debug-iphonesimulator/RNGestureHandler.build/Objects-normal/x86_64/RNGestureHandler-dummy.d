@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-dummy.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-dummy.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch

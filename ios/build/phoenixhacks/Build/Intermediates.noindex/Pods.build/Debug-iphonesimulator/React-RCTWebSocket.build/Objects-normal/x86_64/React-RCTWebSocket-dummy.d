@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTWebSocket/React-RCTWebSocket-dummy.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTWebSocket/React-RCTWebSocket-prefix.pch
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTWebSocket/React-RCTWebSocket-dummy.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTWebSocket/React-RCTWebSocket-prefix.pch

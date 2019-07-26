@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Folly/folly/memory/detail/MallocImpl.cpp \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Folly/folly/Portability.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Folly/folly/portability/Config.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Folly/folly/CPortability.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Folly/folly/memory/detail/MallocImpl.cpp \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Folly/folly/Portability.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Folly/folly/portability/Config.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Folly/folly/CPortability.h

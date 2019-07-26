@@ -1,17 +1,17 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Views/RCTConvert+Transform.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Views/RCTConvert+Transform.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/Yoga.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGValue.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Views/RCTConvert+Transform.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Views/RCTConvert+Transform.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTConvert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGValue.h

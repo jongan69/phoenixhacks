@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-dummy.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-dummy.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch

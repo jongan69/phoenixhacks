@@ -1,33 +1,33 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTRootContentView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/RCTSurface.h \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/React/Views/UIView+React.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Headers/Private/yoga/YGMacros.h

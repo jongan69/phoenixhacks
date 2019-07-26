@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTVibration/React-RCTVibration-dummy.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTVibration/React-RCTVibration-prefix.pch
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTVibration/React-RCTVibration-dummy.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-RCTVibration/React-RCTVibration-prefix.pch

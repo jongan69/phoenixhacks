@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-dummy.m \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-prefix.pch
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-dummy.m \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/DoubleConversion/DoubleConversion-prefix.pch

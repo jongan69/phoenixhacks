@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/Libraries/fishhook/fishhook.c \
-  /Users/jonathan/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-fishhook/React-fishhook-prefix.pch \
-  /Users/jonathan/Code/phoenixhacks/node_modules/react-native/Libraries/fishhook/fishhook.h
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/Libraries/fishhook/fishhook.c \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/ios/Pods/Target\ Support\ Files/React-fishhook/React-fishhook-prefix.pch \
+  /Volumes/Jons\ SSD/Code/phoenixhacks/node_modules/react-native/Libraries/fishhook/fishhook.h
