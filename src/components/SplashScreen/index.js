@@ -21,12 +21,15 @@ class SplashScreen extends React.PureComponent {
   render() {
     const { viewStyles, container } = styles;
     const imgString = () => {
-      const rand = Math.floor(Math.random() * 2) + 1;
-      if (rand === 2) {
+      const rand = Math.floor(Math.random() * 3) + 1;
+      if (rand === 1) {
         return require('../../img//1.gif');
       }
+      if (rand == 2){
       return require('../../img/2.gif');
-    };
+      }
+    return require('../../img/3.gif');
+  };
     return (
       <View style={viewStyles}>
         <ImageBackground source={imgString()} style={container} />
@@ -69,13 +72,13 @@ const styles = {
     marginBottom: 10,
   },
   container: {
-    marginTop: 50,
-    resizeMode: 'stretch',
+    
+    resizeMode: 'contain',
     alignItems: 'center',
     justifyContent: 'center',
     tintColor: 'black',
     display: 'flex',
-    height: '95%',
+    height: '100%',
     width: '100%',
     backgroundColor: 'black',
     opacity: 0.4,

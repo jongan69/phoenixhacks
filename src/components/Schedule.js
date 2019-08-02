@@ -8,6 +8,7 @@ class Schedule extends React.PureComponent {
     return (
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: 'black', }}>
         <Text style={textView}>Schedule</Text>
+        <Text style={textView}>(Display sample scehdule here)</Text>
       </View>
     );
   }

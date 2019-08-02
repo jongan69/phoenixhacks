@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>79B1D24D-959C-4D70-98FE-92A6B7ABEB53</key>
+		<key>4ECCD943-1EAC-49AB-9358-D9C45FDDAF9B</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,11 +15,11 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>79B1D24D-959C-4D70-98FE-92A6B7ABEB53.xcactivitylog</string>
+			<string>4ECCD943-1EAC-49AB-9358-D9C45FDDAF9B.xcactivitylog</string>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>phoenixhacks project</string>
@@ -30,13 +30,45 @@
 			<key>signature</key>
 			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>584944310.29454994</real>
+			<real>586453527.46681094</real>
 			<key>timeStoppedRecording</key>
-			<real>584944320.35990298</real>
+			<real>586453529.62560904</real>
 			<key>title</key>
 			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>79B1D24D-959C-4D70-98FE-92A6B7ABEB53</string>
+			<string>4ECCD943-1EAC-49AB-9358-D9C45FDDAF9B</string>
+		</dict>
+		<key>EF41930A-DED8-4D29-AA6B-33FA0E09CEAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF41930A-DED8-4D29-AA6B-33FA0E09CEAA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>phoenixhacks project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>phoenixhacks</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585841381.155393</real>
+			<key>timeStoppedRecording</key>
+			<real>585841382.35056603</real>
+			<key>title</key>
+			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>EF41930A-DED8-4D29-AA6B-33FA0E09CEAA</string>
 		</dict>
 	</dict>
 </dict>
