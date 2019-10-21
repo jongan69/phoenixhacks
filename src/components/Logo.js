@@ -3,6 +3,7 @@
 /* eslint-disable react/react-in-jsx-scope */
 /* eslint-disable react/jsx-no-undef */
 import React from "react";
+
 import { TouchableOpacity, Image, Linking, Text } from "react-native";
 
 const styles = {
@@ -26,7 +27,7 @@ const Logopic = require("../img/poly-hacks.png");
 
 class Logo extends React.PureComponent {
   open = () => {
-    Linking.openURL("http://phoenixhacks.com");
+    Linking.openURL("https://phoenixhacks.com");
   };
 
   render() {
