@@ -44,9 +44,10 @@ Once pods install completes, you can
 To run on iOS:
 react-native run-ios 
 
-To run on Android:
+To run on Android (follow the android studio portion below for andorid to build properly):
 react-native run-android
 
+If setup properly, the metro bundler should build the app and the app will install on the virtual device
 
 # Windows ( Andorid Only ) ( Untested since July )
 
@@ -86,7 +87,7 @@ Look for and expand the "Android SDK Build-Tools" entry, then make sure that 28.
 
 Finally, click "Apply" to download and install the Android SDK and related build tools.
 
-3. Configure the ANDROID_HOME environment variable
+Configure the ANDROID_HOME environment variable
 
 The React Native tools require some environment variables to be set up in order to build apps with native code.
 
@@ -106,10 +107,10 @@ Open a new Command Prompt window to ensure the new environment variable is loade
 
 4. Add platform-tools to Path
 
-Open the System pane under System and Security in the Windows Control Panel, then click on Change settings.... 
-Open the Advanced tab and click on Environment Variables.... 
-Select the Path variable, then click Edit. 
-Click New and add the path to platform-tools to the list.
+1. Open the System pane under System and Security in the Windows Control Panel, then click on Change settings.... 
+2. Open the Advanced tab and click on Environment Variables.... 
+3. Select the Path variable, then click Edit. 
+4. Click New and add the path to platform-tools to the list.
 
 The default location for this folder is:
 
@@ -117,12 +118,14 @@ c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools
 
 
 Once youre here
-in command line:
 
-cd phoenixhacks
-npm install / yarn install
-react-native run-android
+Open up an android virtual device and in command line:
 
+1. cd phoenixhacks
+2. npm install / yarn install
+3. react-native run-android
+
+The metro bundler should open and install the app on the virtualdevice
 
 # Refrence these links for help
 React native : https://facebook.github.io/react-native/docs/getting-started
