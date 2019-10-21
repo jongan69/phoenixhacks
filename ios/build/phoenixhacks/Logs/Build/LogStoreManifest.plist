@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>FC9E4F8B-E10D-4C9C-92D6-029CCA63784C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC9E4F8B-E10D-4C9C-92D6-029CCA63784C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>phoenixhacks project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>phoenixhacks</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593387527.61610603</real>
+			<key>timeStoppedRecording</key>
+			<real>593387636.37354505</real>
+			<key>title</key>
+			<string>Building workspace phoenixhacks with scheme phoenixhacks and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FC9E4F8B-E10D-4C9C-92D6-029CCA63784C</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

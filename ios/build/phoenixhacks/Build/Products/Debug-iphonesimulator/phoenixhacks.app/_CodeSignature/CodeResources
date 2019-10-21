@@ -62,47 +62,31 @@
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
-		AdKQCVgu+kQPYrraHZk0nvHb0RU=
+		Zb+apFirYLFzWl3DKgehHpx6d4Y=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
 		<data>
-		GwWBYHmtIC5nM9L567YjKxjxUO4=
-		</data>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/Info.plist</key>
-		<data>
-		JwMIHni/EdOAatQ224suJ1+dZ5Q=
-		</data>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/LogArchiveCollector</key>
-		<data>
-		6r6P0UwyV4OqZfp8uRuCcXLHvvY=
-		</data>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/_CodeSignature/CodeResources</key>
-		<data>
-		p92DS4NIbZMvY0OPJu62b9/1sU0=
-		</data>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/version.plist</key>
-		<data>
-		xw1wNR30d0uNbLSxaGNoHbLwXZ0=
+		4YzGccrfZmsK+5vkiTU4eZbJgek=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
 		<data>
-		yurPxzU8RrW0ci+3MIuO3M8Aqmk=
+		Rfk1cUPoXItLY6FPVnxPdTnn2cg=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
 		<data>
-		ph88guKiS8ESpMndI0uwmxfIH+0=
+		cX36RXdDl3EMAMV0lOhi0RGEkTc=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
-		BzLsBYpQlEle0+r94iOQ4dN0BFU=
+		MkLBcTrGZP0m49TO8MT9Kpg2XvA=
 		</data>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<data>
-		PRzeq60zTFuBhE7Fg4wAJnOX9nM=
+		vMfIMwmSj/2qw5EHG3a3JxnndiU=
 		</data>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<data>
-		7n5oRI2o67livUgKowi9dL1ewUQ=
+		/CDR7ItbsxtlIc2/6/P1CG134lY=
 		</data>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -115,11 +99,15 @@
 		</dict>
 		<key>Frameworks/XCTest.framework/version.plist</key>
 		<data>
-		ph88guKiS8ESpMndI0uwmxfIH+0=
+		cX36RXdDl3EMAMV0lOhi0RGEkTc=
 		</data>
 		<key>Frameworks/libXCTestBundleInject.dylib</key>
 		<data>
-		q1wqJjLP7rmsLVcDtfo6VEQA6Vo=
+		fB296Ag0IpaSx1cD5EZR/4MmG7k=
+		</data>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<data>
+		rmWK27yJybEJGDK0ycNnvd6CQAA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -135,19 +123,19 @@
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest.dSYM/Contents/Resources/DWARF/phoenixhacksTests</key>
 		<data>
-		uUNCwtS4xj5wC19Ec0UWvkoQ1mg=
+		DUsZuy5jg+QqxIwkHF5Fk7CgmMc=
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest/Info.plist</key>
 		<data>
-		wkAOdBkdTPlz+Iwgf//tnM4hWUk=
+		77T5ccRssPbAnqR4FdQx3EpkoJc=
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		5GfBj5WY1Vvq9LGXrNEsqWGjEKs=
+		FEaHnWUfA/IuCM511w1rjocSoeg=
 		</data>
 		<key>PlugIns/phoenixhacksTests.xctest/phoenixhacksTests</key>
 		<data>
-		QvPJpZYvAu7D3TZZJzCxve/L2Hw=
+		nM09j5kmt0g9WYAyalNR7e0O2GQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -310,121 +298,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AdKQCVgu+kQPYrraHZk0nvHb0RU=
+			Zb+apFirYLFzWl3DKgehHpx6d4Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Juqo5ACp6kxMxaTKCklnzdXbH9XVDsxwrkjZmb2Gw0A=
+			mlcCbqQ3H7kz8t6TgQk3KVBU9PhhXAyPDBUnX8OXB24=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GwWBYHmtIC5nM9L567YjKxjxUO4=
+			4YzGccrfZmsK+5vkiTU4eZbJgek=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Ia3Jdmibv3ZwLXG2JkOog4+CGSPf2aBpcE7q+DElh0=
-			</data>
-		</dict>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JwMIHni/EdOAatQ224suJ1+dZ5Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			kqDZLgnNR3ymSfYIAdIJx9Ve67lvHQhbBTAvSEKpSUQ=
-			</data>
-		</dict>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/LogArchiveCollector</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6r6P0UwyV4OqZfp8uRuCcXLHvvY=
-			</data>
-			<key>hash2</key>
-			<data>
-			1SOpRwfK7uuL9XtebA+g5lXXoKDOeJnkRrkLlR7uKsQ=
-			</data>
-		</dict>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			p92DS4NIbZMvY0OPJu62b9/1sU0=
-			</data>
-			<key>hash2</key>
-			<data>
-			C9htH2fPcOVvWuDaWQ0HjXnbM4CirOR1MUKi48sc6lc=
-			</data>
-		</dict>
-		<key>Frameworks/XCTAutomationSupport.framework/XPCServices/LogArchiveCollector.xpc/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xw1wNR30d0uNbLSxaGNoHbLwXZ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			J7NoKPHvwJvrz8RBb/E1HbMjD548n2vtVKDpZozYkbc=
+			xlwgvdY0uJcATp76HzTsg6zAqwbDrQIhTLjM00KoOGk=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yurPxzU8RrW0ci+3MIuO3M8Aqmk=
+			Rfk1cUPoXItLY6FPVnxPdTnn2cg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OBAhDxWLr1mkeZOTFiFsqIbeRdzzHxvQJzpRkj4ch94=
+			k7eZxRWa9BBJKcnLKurg39rmYNdWSb8gJ06lOsWFh0A=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ph88guKiS8ESpMndI0uwmxfIH+0=
+			cX36RXdDl3EMAMV0lOhi0RGEkTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			wGJnOOyNjLK4Ej9fSzr0dSvgTZvsi55zvOyNcBkmfas=
+			LJGBUe6yDOXNn8XrkeMKS8lRIc3fsgjTGuMvwbVbIMg=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BzLsBYpQlEle0+r94iOQ4dN0BFU=
+			MkLBcTrGZP0m49TO8MT9Kpg2XvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pDPOvaQBiKZJ1ZDFNU8RBkBQFqn/0be7PLr4l7NX58A=
+			uVJpv1942A2T6rNIuittFKQAfVw6Uue3e+F4hxfzvEw=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/XCTest</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PRzeq60zTFuBhE7Fg4wAJnOX9nM=
+			vMfIMwmSj/2qw5EHG3a3JxnndiU=
 			</data>
 			<key>hash2</key>
 			<data>
-			HIM6xMGNpiVKK8DLwbL5SeEpbnq9EkJZvVurRfWIcqc=
+			5aBCak4iD8oHZg40XESOghUyj67gIu31DlPLDInjoqY=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7n5oRI2o67livUgKowi9dL1ewUQ=
+			/CDR7ItbsxtlIc2/6/P1CG134lY=
 			</data>
 			<key>hash2</key>
 			<data>
-			q4ZWx98dZ+KsJnqbUrMWzAT6BiOuVD5NVBVZ0DS8q2g=
+			FwSmW6fzW8XWsh7LYlQmyUhCY45tdc2BKLzbHBENmT8=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
@@ -444,22 +388,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ph88guKiS8ESpMndI0uwmxfIH+0=
+			cX36RXdDl3EMAMV0lOhi0RGEkTc=
 			</data>
 			<key>hash2</key>
 			<data>
-			wGJnOOyNjLK4Ej9fSzr0dSvgTZvsi55zvOyNcBkmfas=
+			LJGBUe6yDOXNn8XrkeMKS8lRIc3fsgjTGuMvwbVbIMg=
 			</data>
 		</dict>
 		<key>Frameworks/libXCTestBundleInject.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q1wqJjLP7rmsLVcDtfo6VEQA6Vo=
+			fB296Ag0IpaSx1cD5EZR/4MmG7k=
 			</data>
 			<key>hash2</key>
 			<data>
-			QWXElfyn8FN0FgwonHfhQwbr676c3JP7/OiOxCTwJPY=
+			RtvoAiXdlzkUNEz1CHmWHKZADzBhy3bp8nZt88RtFFc=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rmWK27yJybEJGDK0ycNnvd6CQAA=
+			</data>
+			<key>hash2</key>
+			<data>
+			J26tg7W6/N1SB92U5a35RkjGIOa5NLg0AxGShpThn8Y=
 			</data>
 		</dict>
 		<key>PlugIns/phoenixhacksTests.xctest.dSYM/Contents/Info.plist</key>
@@ -477,44 +432,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uUNCwtS4xj5wC19Ec0UWvkoQ1mg=
+			DUsZuy5jg+QqxIwkHF5Fk7CgmMc=
 			</data>
 			<key>hash2</key>
 			<data>
-			KjkjHlXGsT+RmHcloWhApNGSUJGbxOLd/EHZfvejhEg=
+			EnJRlRmTtPfUgeIrbEJ+GxuFhL85/kzXGAjkMqp9Pto=
 			</data>
 		</dict>
 		<key>PlugIns/phoenixhacksTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wkAOdBkdTPlz+Iwgf//tnM4hWUk=
+			77T5ccRssPbAnqR4FdQx3EpkoJc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z3LtBemOf3kgE/v3/lCbiubfULiXfHKVcecFcwOJqt4=
+			kmlKtVez0Z4K08M2b3pAE84rFqV3WZexrPj2WIF8b2o=
 			</data>
 		</dict>
 		<key>PlugIns/phoenixhacksTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5GfBj5WY1Vvq9LGXrNEsqWGjEKs=
+			FEaHnWUfA/IuCM511w1rjocSoeg=
 			</data>
 			<key>hash2</key>
 			<data>
-			R0O+/+H3gWiGWfW/Gq4XDKZWs2qfa/MbMS6j2bWMpQ0=
+			HHtsoTUMeoTTM+YGQJl9DGakKTiEljuPIaNSFjMdasQ=
 			</data>
 		</dict>
 		<key>PlugIns/phoenixhacksTests.xctest/phoenixhacksTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QvPJpZYvAu7D3TZZJzCxve/L2Hw=
+			nM09j5kmt0g9WYAyalNR7e0O2GQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XoBfxHTOdQFUCuj2qhtoZo4m7mVToVyKKW6viw4g20g=
+			S4xr6YW7yrjXR8TxiRmC9FBQ7FwHebWQXRWe6thfnk4=
 			</data>
 		</dict>
 	</dict>
