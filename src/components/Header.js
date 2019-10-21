@@ -1,5 +1,6 @@
 /* eslint-disable comma-dangle */
 import React from 'react';
+
 import { Text, View } from 'react-native';
 
 const Header = props => {
@@ -16,9 +17,10 @@ const styles = {
     fontSize: 20,
     justifyContent: 'center',
     alignItems: 'center',
-    // top: '100%',
     color: '#8F40BF',
-    backgroundColor: '#000000'
+    backgroundColor: '#000000',
+    borderColor: '#000000',
+    shadowColor: '#000000',
   },
   view: {
     // Color: '#8F40BF',
