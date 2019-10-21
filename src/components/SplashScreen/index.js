@@ -1,5 +1,6 @@
 /* eslint-disable prettier/prettier */
 import React from 'react';
+
 import { View, ImageBackground } from 'react-native';
 
 class SplashScreen extends React.PureComponent {
@@ -7,7 +8,7 @@ class SplashScreen extends React.PureComponent {
     new Promise(resolve =>
       setTimeout(() => {
         resolve('result');
-      }, 7000)
+      }, 5000)
     );
 
   async componentDidMount() {
