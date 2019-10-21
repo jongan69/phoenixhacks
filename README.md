@@ -62,4 +62,5 @@ To do so run these commands:
 2. npm install -g react-native-cli
 3. git clone https://github.com/jongan69/phoenixhacks.git
 
-
+# Refrence these links for help
+React native : https://facebook.github.io/react-native/docs/getting-started
