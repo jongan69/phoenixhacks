@@ -17,7 +17,8 @@
     "react-native-screens": "^1.0.0-alpha.23",
     "react-native-webview": "^5.12.1",
     "react-navigation": "^3.11.1",
-    "styled-components": "^4.3.2"
+    "styled-components": "^4.3.2",
+    "ws": "^7.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
