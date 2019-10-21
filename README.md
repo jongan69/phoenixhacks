@@ -55,6 +55,9 @@ In order to get the android working on windows, you should have the following:
 Chocolately:
 https://chocolatey.org
 
+Android Studio:
+https://developer.android.com/studio
+
 Once you have this you should be able to get the following:
 Java SE Development Kit (JDK)
 Python 2 (run the following)
