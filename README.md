@@ -14,17 +14,39 @@ Node: v12.2.0
 React-native-cli: 2.0.1
 React-native: 0.60.3
 
-Depending on the mobile development enviornement, you will need to have
+Inorder for react native to work properly you will also need to have to the following installed
+
+Depending on the mobile development enviornement you are running, These are the steps you would take
 
 # MacOS
-For MacOS you must have Xcode installed with command line tools
 
-1. You can install Xcode from the App store 
+For MacOS you must have Xcode and Android studio installed with command line tools, and a few other things
+
+1. You can install Xcode from the App store and android studio from: https://developer.android.com/studio
 2. Run xcode-select --install 
+3. brew install yarn
+4. brew install node
+5. brew install watchman
+6. brew tap AdoptOpenJDK/openjdk
+7. brew cask install adoptopenjdk8
 
-Once these are installed, you can git pull the repository using 
+Once these are installed, you can git pull the repository using these commands:
 
-1. git clone 
+1. git clone https://github.com/jongan69/phoenixhacks.git
+2. cd phoenixhacks
+3. cd ios
+4. pod install
 
-# Android
+Once pods install completes, you can 
+1. cd ..
+2. npm install or yarn install , both work but perferably yarn
+
+# To run on iOS
+react-native run-ios 
+
+# To run on Android
+react-native run-android
+
+
+# Windows
 Untested since July
