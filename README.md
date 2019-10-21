@@ -62,5 +62,15 @@ To do so run these commands:
 2. npm install -g react-native-cli
 3. git clone https://github.com/jongan69/phoenixhacks.git
 
+Assuming these steps went smoothly you will need to setup android studio:
+
+Android Studio installs the latest Android SDK by default. Building a React Native app with native code, however, requires the Android 9 (Pie) SDK in particular. Additional Android SDKs can be installed through the SDK Manager in Android Studio.
+
+The SDK Manager can be accessed from the "Welcome to Android Studio" screen. Click on "Configure", then select "SDK Manager".
+
+![Image of Android Studio]
+(https://facebook.github.io/react-native/docs/assets/GettingStartedAndroidStudioWelcomeWindows.png)
+
+
 # Refrence these links for help
 React native : https://facebook.github.io/react-native/docs/getting-started
