@@ -41,12 +41,12 @@ Once pods install completes, you can
 1. cd ..
 2. npm install or yarn install , both work but perferably yarn
 
-# To run on iOS
+To run on iOS:
 react-native run-ios 
 
-# To run on Android
+To run on Android:
 react-native run-android
 
 
-# Windows
+# Windows ( Andorid Only )
 Untested since July
