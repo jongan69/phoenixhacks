@@ -128,6 +128,6 @@ Open up an android virtual device and in command line:
 The metro bundler should open and install the app on the virtualdevice
 
 # Refrence these links for help
-React native : https://facebook.github.io/react-native/docs/getting-started
-Chocolaty: https://chocolatey.org
-Cocoa pods: https://guides.cocoapods.org/using/getting-started.html
+1. React native : https://facebook.github.io/react-native/docs/getting-started
+2. Chocolaty: https://chocolatey.org
+3. Cocoa pods: https://guides.cocoapods.org/using/getting-started.html
