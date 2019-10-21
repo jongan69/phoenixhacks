@@ -14,11 +14,9 @@ Node: v12.2.0
 React-native-cli: 2.0.1
 React-native: 0.60.3
 
-Inorder for react native to work properly you will also need to have to the following installed
-
 Depending on the mobile development enviornement you are running, These are the steps you would take
 
-# MacOS
+# MacOS (iOS or Andoroid)
 
 For MacOS you must have Xcode and Android studio installed with command line tools, and a few other things
 
@@ -48,5 +46,20 @@ To run on Android:
 react-native run-android
 
 
-# Windows ( Andorid Only )
-Untested since July
+# Windows ( Andorid Only ) ( Untested since July )
+
+In order to get the android working on windows, you should have the following:
+
+Chocolately:
+https://chocolatey.org
+
+Once you have this you should be able to get the following:
+Java SE Development Kit (JDK)
+Python 2 (run the following)
+
+To do so run these commands:
+1. choco install -y nodejs.install python2 jdk8
+2. npm install -g react-native-cli
+3. git clone https://github.com/jongan69/phoenixhacks.git
+
+
