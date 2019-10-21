@@ -75,6 +75,56 @@ The SDK Manager can be accessed from the "Welcome to Android Studio" screen. Cli
 
 ![Image of Android Studio](https://facebook.github.io/react-native/docs/assets/GettingStartedAndroidStudioWelcomeWindows.png)
 
+The SDK Manager can also be found within the Android Studio "Preferences" dialog, 
+under Appearance & Behavior → System Settings → Android SDK.
+Select the "SDK Platforms" tab from within the SDK Manager, then check the box next to "Show Package Details" in the bottom right corner. Look for and expand the Android 9 (Pie) entry, then make sure the following items are checked:
+
+Android SDK Platform 28
+Intel x86 Atom_64 System Image or Google APIs Intel x86 Atom System Image
+Next, select the "SDK Tools" tab and check the box next to "Show Package Details" here as well. 
+Look for and expand the "Android SDK Build-Tools" entry, then make sure that 28.0.3 is selected.
+
+Finally, click "Apply" to download and install the Android SDK and related build tools.
+
+3. Configure the ANDROID_HOME environment variable
+
+The React Native tools require some environment variables to be set up in order to build apps with native code.
+
+Open the System pane under System and Security in the Windows Control Panel, then click on Change settings.... 
+Open the Advanced tab and click on Environment Variables.... 
+Click on New... 
+to create a new ANDROID_HOME user variable that points to the path to your Android SDK.
+
+The SDK is installed, by default, at the following location:
+
+c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk
+
+You can find the actual location of the SDK in the Android Studio "Preferences" dialog, 
+under Appearance & Behavior → System Settings → Android SDK.
+
+Open a new Command Prompt window to ensure the new environment variable is loaded before proceeding to the next step.
+
+4. Add platform-tools to Path
+
+Open the System pane under System and Security in the Windows Control Panel, then click on Change settings.... 
+Open the Advanced tab and click on Environment Variables.... 
+Select the Path variable, then click Edit. 
+Click New and add the path to platform-tools to the list.
+
+The default location for this folder is:
+
+c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk\platform-tools
+
+
+Once youre here
+in command line:
+
+cd phoenixhacks
+npm install / yarn install
+react-native run-android
+
 
 # Refrence these links for help
 React native : https://facebook.github.io/react-native/docs/getting-started
+Chocolaty: https://chocolatey.org
+Cocoa pods: https://guides.cocoapods.org/using/getting-started.html
