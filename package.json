@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
-    "test": "jest",
-    "postinstall": "sed -i '' 's/startsWith/includes/g' node_modules/@react-native-community/cli-platform-ios/build/commands/runIOS/findMatchingSimulator.js"
+    "test": "jest"
   },
   "dependencies": {
     "eslint": "5.3",
