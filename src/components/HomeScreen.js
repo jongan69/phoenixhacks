@@ -1,7 +1,8 @@
 /* eslint-disable comma-dangle */
 import React from 'react';
 import { Button, View, ImageBackground } from 'react-native';
-import { createStackNavigator, createAppContainer } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
+import { createAppContainer } from 'react-navigation';
 import { Details, Schedule, LiveUpdates, FAQS, Map, Sponsors, Workshops, Logo } from '.';
 
 const styles = {
