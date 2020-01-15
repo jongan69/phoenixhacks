@@ -1,4 +1,4 @@
-# Phoenix Hacks
+# PhoenixHacks
 This is the official repository for the Florida Polytechnic Hackathon Application
 scheduled for January 2020
 
